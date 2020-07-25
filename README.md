@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+Here are some quick things about me:
+
+- 🔭 I'm a University Student, and I am learning programming.
+- 🧑‍💻 Coding is my passion.
+- 📫 The best way to reach me is to send me an email.
+- 🌱 I’m currently learning Golang & Java language. I hope I can be qualified them in the future.
+- ⚡ Fun fact: My english is very !good.
+
 <!--
 **QXQZX/QXQZX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
